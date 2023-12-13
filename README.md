@@ -1,8 +1,9 @@
-# React + Vite
+Página para poder comprar VideoJuegos, ordenada por categorías y por IDs para poder ver el detalle de cada producto, la idea es crear una web sencilla, rápida y cómoda para poder comprar productos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Links de donde obtuve las imágenes:
+
+https://www.flaticon.es/iconos-gratis/palanca-de-mando
+
+https://www.flaticon.es/iconos-gratis/tienda
